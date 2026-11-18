@@ -1,1 +1,8 @@
 .DS_Store
+.venv/
+__pycache__/
+node_modules/
+dist/
+*.pyc
+*.sqlite3
+.DS_Store
